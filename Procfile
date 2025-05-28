@@ -1,1 +1,1 @@
-web: streamlit run physicsmathagent.py
+web: python -m streamlit run physicsmathagent.py
